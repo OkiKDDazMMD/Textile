@@ -2,7 +2,7 @@ bl_info = {
 	"name": "Textile",					# プラグイン名
 	"author": "Oki_KD",							# 制作者名
 	"version": (0, 1),							# バージョン
-	"blender": (2, 8, 0),						# 動作可能なBlenderバージョン
+	"blender": (2, 80, 0),						# 動作可能なBlenderバージョン
 	"support": "TESTING",						# サポートレベル
 	"category": "3D View",						# カテゴリ名
 	"location": "View3D > Sidebar > Textile",	# ロケーション
